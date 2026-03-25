@@ -130,3 +130,19 @@ Vārds Uzvārds
 
 ##  Licence
 Brīvi izmantojams mācību nolūkiem
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+2 uzd
+Izdariet to pašu bet ar citām programmām:
+
+Dzīvnieku adopcijas aplikācija
+Mūzikas atskaņotājs
+Atmiņu spēle bērniem
+Vārdu krājuma paplašinātājs
+Ceļojumu plānotājs
