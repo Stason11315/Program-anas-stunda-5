@@ -67,22 +67,20 @@ Katra grupa iesniedz:
 
 saiti uz GitHub repozitoriju 
 
-------------------------------------------------------------------------------------------PIEMĒRS:
-# TaskMaster aplikācija
+# Fitnesa treniņu sekotājs aplikācija
 
-##  Apraksts
-TaskMaster ir vienkārša To-Do List aplikācija, kas palīdz organizēt ikdienas uzdevumus.
-Lietotājs var pievienot, dzēst un pārvaldīt uzdevumus ar termiņiem un prioritātēm.
+##  Fitnesa treniņu sekotājs ir vienkārša To-Do List aplikācija, kas palīdz organizēt treniņu uzdevumus.
+Lietotājs var pievienot, dzēst un pārvaldīt uzdevumus ar treniņiem.
 
 ---
 
 ## Uzstādīšana
 
 1. Lejupielādē projektu:
-   git clone https://github.com/username/taskmaster
+   git clone https://github.com/username/fitnestreniņusekotajs
 
 2. Atver projekta mapi:
-   cd taskmaster
+   cd treniņu_sekotajs
 
 3. Instalē nepieciešamās bibliotēkas:
    npm install
@@ -95,9 +93,8 @@ Lietotājs var pievienot, dzēst un pārvaldīt uzdevumus ar termiņiem un prior
 ##  Lietošana
 
 1. Atver aplikāciju  
-2. Nospied "Pievienot uzdevumu"  
-3. Ievadi uzdevuma nosaukumu  
-4. Saglabā  
+2. Nospied "Pievienot uzdevumu"    
+3. Saglabā treniņu programmu
 
 ---
 
@@ -105,7 +102,6 @@ Lietotājs var pievienot, dzēst un pārvaldīt uzdevumus ar termiņiem un prior
 
 - Uzdevumu pievienošana  
 - Uzdevumu dzēšana  
-- Termiņu iestatīšana  
 - Prioritāšu izvēle  
 - Uzdevumu atzīmēšana kā pabeigti  
 
@@ -114,8 +110,7 @@ Lietotājs var pievienot, dzēst un pārvaldīt uzdevumus ar termiņiem un prior
 ## Kā pievienot uzdevumu
 
 1. Nospied pogu "Pievienot uzdevumu"  
-2. Ievadi nosaukumu (piemēram: "Izdarīt mājasdarbu")  
-3. Izvēlies datumu  
+2. Ievadi nosaukumu (piemēram: "Muguras uzdevums 1")  
 4. Izvēlies prioritāti  
 5. Nospied "Saglabāt"  
 
@@ -124,18 +119,12 @@ Lietotājs var pievienot, dzēst un pārvaldīt uzdevumus ar termiņiem un prior
 ---
 
 ##  Autors
-Vārds Uzvārds
+Alekss Klaucans, Stas(❁´◡`❁)
 
 ---
 
 ##  Licence
 Brīvi izmantojams mācību nolūkiem
-
-
-
-
-
-
 
 ------------------------------------------------------------------------------------------------------------------------
 2 uzd
@@ -146,3 +135,5 @@ Mūzikas atskaņotājs
 Atmiņu spēle bērniem
 Vārdu krājuma paplašinātājs
 Ceļojumu plānotājs
+
+
